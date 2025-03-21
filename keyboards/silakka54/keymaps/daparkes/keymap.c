@@ -7,7 +7,7 @@
 #define KC_SGRV     S(KC_GRV)
 #define KC_PIP      S(KC_NUHS)
 #define KC_COPY     LCMD(KC_C)
-#define KC_PAS      LCMD(KC_P)
+#define KC_PAS      LCMD(KC_V)
 #define WS_LFT      C(KC_LEFT)
 #define WS_RGT      C(KC_RIGHT)
 #define MS_CTRL     C(KC_UP)
